@@ -1,1 +1,0 @@
-C:\Users\Jon\Downloads\How to build an Hello World 2d app in Hololens\C#\CS2DHololensApp\CS2DHololensApp.csproj;arm
