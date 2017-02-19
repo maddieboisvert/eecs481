@@ -1,0 +1,1 @@
+C:\Users\Sean\Documents\UM\Courses\Senior - Second Sem\EECS 481\2d example\C#\CS2DHololensApp\CS2DHololensApp.csproj;arm
